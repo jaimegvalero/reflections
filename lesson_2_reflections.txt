@@ -13,4 +13,7 @@ Las branches son útiles para hacer una versión diferente del archivo paralela 
 How do the diagrams help you visualize the branch structure?
 Haciendo un seguimiento lineal en el tiempo de los cambios que se han hecho con los commits y las diferentes branches
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ufff
+
  
