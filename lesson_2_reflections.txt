@@ -8,4 +8,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 Utilizando git diff para ver los cambios entre el working directory y el staging area, y git diff --staged para ver los cambios entre el staging area y el commit más reciente
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-Las branches son útiles para hacer una versión diferente del archivo paralela a la principal, ya que no se quiere modificar la principal sino solo probar o hacer algo en una version paralela 
+Las branches son útiles para hacer una versión diferente del archivo paralela a la principal, ya que no se quiere modificar la principal sino solo probar o hacer algo en una version paralela
+
+How do the diagrams help you visualize the branch structure?
+Haciendo un seguimiento lineal en el tiempo de los cambios que se han hecho con los commits y las diferentes branches
+
+ 
