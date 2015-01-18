@@ -6,3 +6,6 @@ Staging area es un paso intermedio, donde se añaden temporalmente los archivos 
 
 How can you use the staging area to make sure you have one commit per logical change?
 Utilizando git diff para ver los cambios entre el working directory y el staging area, y git diff --staged para ver los cambios entre el staging area y el commit más reciente
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Las branches son útiles para hacer una versión diferente del archivo paralela a la principal, ya que no se quiere modificar la principal sino solo probar o hacer algo en una version paralela 
