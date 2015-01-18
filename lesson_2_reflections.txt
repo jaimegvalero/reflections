@@ -3,3 +3,6 @@ Git empieza a guardar el registro de ese repositorio, se necesita hacerlo para t
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area es un paso intermedio, donde se añaden temporalmente los archivos que se quieren controlar para agruparlos en un único commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+Utilizando git diff para ver los cambios entre el working directory y el staging area, y git diff --staged para ver los cambios entre el staging area y el commit más reciente
