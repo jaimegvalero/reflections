@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 Git empieza a guardar el registro de ese repositorio, se necesita hacerlo para tener activo el control de versiones.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area es un paso intermedio, donde se añaden temporalmente los archivos que se quieren controlar para agruparlos en un único commit
